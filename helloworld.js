@@ -1,1 +1,1 @@
-my first commit to *.js file
+updated the java script file for the second time
